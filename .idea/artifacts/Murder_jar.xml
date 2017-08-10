@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Murder:jar">
+    <output-path>$PROJECT_DIR$/../Random Folders/Server/Test Server - Copy - Copy/plugins</output-path>
+    <root id="archive" name="Murder.jar">
+      <element id="module-output" name="Murder" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+name: murder
+main: com.oasis.murder.Main
+version: 1.0
+author: Enderqura
+
+commands:
+  forcestart:
+    description: Force starts the game!
+    usage: /<command>
